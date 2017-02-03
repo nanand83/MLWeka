@@ -1,0 +1,40 @@
+Meteorite Training Dataset,,,,
+,unpruned,confidence - 0.125,confidence - 0.25,confidence - 0.5
+Percent_correct,84.871213,85.187013,85.858087,85.1278
+Elapsed_Time_training,0.77,0.823,0.763,0.769
+Elapsed_Time_testing,0.012,0.008,0.01,0.011
+Number_of_training_instances,19673,19673,19673,19673
+measureTreeSize,4645,951,1663,3183
+measureNumLeaves,4033,856,1402,2732
+,,,,
+,,,,
+,,,,
+Meteorite Test Dataset,,,,
+,unpruned,confidence - 0.125,confidence - 0.25,confidence - 0.5
+Percent_correct,89.634452,91.387081,91.387081,90.535804
+Elapsed_Time_training,0.018,0.021,0.02,0.02
+Elapsed_Time_testing,0.001,0.002,0.001,0.002
+Number_of_training_instances,3876,3876,3876,3876
+measureTreeSize,4335,21,21,807
+measureNumLeaves,4258,11,11,784
+,,,,
+,,,,
+,,,,
+Occupancy Training Dataset,,,,
+,unpruned,confidence - 0.125,confidence - 0.25,confidence - 0.5
+Percent_correct,99.494402,99.422174,99.494402,99.494402
+Elapsed_Time_training,0.018,0.032,0.017,0.017
+Elapsed_Time_testing,0.002,0.002,0.001,0.002
+Number_of_training_instances,5374,5374,5374,5374
+measureTreeSize,31,23,29,29
+measureNumLeaves,16,12,15,15
+,,,,
+,,,,
+Occupancy Test Dataset,,,,
+,unpruned,confidence - 0.125,confidence - 0.25,confidence - 0.5
+Percent_correct,98.454746,98.953756,98.964746,98.963723
+Elapsed_Time_training,0.003,0.003,0.002,0.003
+Elapsed_Time_testing,0.001,0.001,0.001,0.001
+Number_of_training_instances,1759,1759,1759,1759
+measureTreeSize,19,14,15,15
+measureNumLeaves,10,12,13,13
